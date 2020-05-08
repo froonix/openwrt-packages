@@ -12,7 +12,7 @@ PKG_VERSION:=2.0.1-fnx1
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=https://github.com/froonix/$(PKG_NAME)/releases/download/$(PKG_VERSION)/
+PKG_SOURCE_URL:=https://github.com/froonix/$(PKG_NAME)/archive/
 PKG_HASH:=528485551eba50bad2e7de79c7dd05fe1a45281a5be21f5c83c7822bbadfe9d1
 
 PKG_MAINTAINER:=Jonathan McCrohan <jmccrohan@gmail.com>
